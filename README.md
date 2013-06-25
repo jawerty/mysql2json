@@ -2,7 +2,7 @@
 Convert mysql data into json in one line of text
 
 # Install
-Install via gem
+Install via rubygems
 ```
 $ gem install mysql2json
 ```
