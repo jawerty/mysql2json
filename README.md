@@ -1,6 +1,12 @@
 # mysql2json
 Convert mysql data into json in one line of text
 
+# Install
+Install via gem
+```
+$ gem install mysql2json
+```
+
 # Usage
 Basic usage
 ```
