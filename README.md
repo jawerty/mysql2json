@@ -36,7 +36,7 @@ Github: jawerty
 
 Twitter: @jawerty
 
-Website/Blog: <http://wrightdev.herokuapp.com>
+Website/Blog: <http://jawerty.github.io>
 
 #LICENSE
 This repository is under the MIT License
